@@ -1,5 +1,12 @@
 # frozen_string_literal: true
 
 class Bookmark
-  def name; end
+  def self.all
+    [
+        'http://www.makersacademy.com',
+        'http://www.destroyallsoftware.com',
+        'http://www.google.com'
+    ]
+  end
+  
 end
