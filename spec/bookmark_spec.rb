@@ -3,7 +3,12 @@
 require 'bookmark'
 
 describe Bookmark do
-  it 'random' do
-    expect(subject).to respond_to(:name)
+  describe '.all' do
+    it 'returns all bookmarks' do
+      p bookmarks = Bookmark.all
+      expect(bookmarks).to include("http://www.makersacademy.com")
+      expect(bookmarks).to include("http://www.destroyallsoftware.com")
+      expect(bookmarks).to include("http://www.google.com")
+    end
   end
 end
