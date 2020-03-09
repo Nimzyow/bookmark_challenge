@@ -3,7 +3,7 @@
 require 'sinatra'
 require_relative './lib/bookmark.rb'
 
-class Bm < Sinatra::Base
+class BookmarkManager < Sinatra::Base
   get '/' do
     erb(:index)
   end
