@@ -1,3 +1,5 @@
-require_relative "./app.rb"
+# frozen_string_literal: true
 
-run Rps
+require_relative './app.rb'
+
+run Bookmark
