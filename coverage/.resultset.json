@@ -1,7 +1,7 @@
 {
   "RSpec": {
     "coverage": {
-      "/Users/student/Projects/bookmark_manager/bookmark_challenge/spec/bookmark_spec.rb": {
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/bookmark_spec.rb": {
         "lines": [
           null,
           null,
@@ -10,16 +10,45 @@
           1,
           1,
           1,
+          null,
+          1,
+          null,
+          null,
           1,
           1,
           1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           null,
           null,
           null
         ]
       },
-      "/Users/student/Projects/bookmark_manager/bookmark_challenge/spec/features/testing_infrastructure_spec.rb": {
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/creating_bookmarks_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/testing_infrastructure_spec.rb": {
         "lines": [
           1,
           1,
@@ -29,8 +58,13 @@
           null
         ]
       },
-      "/Users/student/Projects/bookmark_manager/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/viewing_bookmarks_spec.rb": {
         "lines": [
+          1,
+          1,
+          null,
+          null,
+          1,
           1,
           1,
           1,
@@ -43,6 +77,6 @@
         ]
       }
     },
-    "timestamp": 1583773404
+    "timestamp": 1583931041
   }
 }

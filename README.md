@@ -13,10 +13,16 @@ in the terminal run
 psql postgres
 ```
 
-create database using the psql commpand
+create database using the psql command
 
 ```
 CREATE DATABASE bookmark_manager;
+```
+
+create test database using the psql command
+
+```
+CREATE DATABASE bookmark_manager_test;
 ```
 
 connect to the database using the pqsl command using
@@ -27,4 +33,6 @@ connect to the database using the pqsl command using
 
 run the query saved in
 
+```
 /db/migrations/01_create_bookmarks_table.sql
+```
