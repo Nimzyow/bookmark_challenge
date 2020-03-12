@@ -32,11 +32,34 @@
           1,
           1,
           1,
+          1,
           null,
           1,
           1,
           1,
           1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          null,
+          null,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          1,
+          1,
+          null,
           null,
           null,
           null
@@ -66,9 +89,47 @@
           null
         ]
       },
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/deleting_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          null,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
       "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/testing_infrastructure_spec.rb": {
         "lines": [
           1,
+          1,
+          1,
+          1,
+          null,
+          null
+        ]
+      },
+      "/Users/nimasoufiani/education/Makers/course/week4/bookmark_challenge/spec/features/updating_a_bookmark_spec.rb": {
+        "lines": [
+          1,
+          1,
+          1,
+          1,
+          1,
+          null,
+          1,
+          1,
+          null,
+          1,
+          1,
+          1,
+          null,
           1,
           1,
           1,
@@ -95,6 +156,6 @@
         ]
       }
     },
-    "timestamp": 1583943211
+    "timestamp": 1584024793
   }
 }
